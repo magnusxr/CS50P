@@ -1,5 +1,5 @@
 # CS50P
-solutions for CS50P's problems
+solutions for CS50P's problems\
 will update as i go :)
 
 ## week 0
